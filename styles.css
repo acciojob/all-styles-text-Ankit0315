@@ -6,7 +6,8 @@ div{
 	background-color:rgb(128, 0, 128);
 	text-decoration: underline;
 	padding:10px;
-	border-left:solid green 5px;
+	border-left-style: solid;
+	border-left-width:5px;
 	border-left-color:rgb(0, 128, 0);
 	font-size:20px;
 }
