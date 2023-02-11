@@ -1,11 +1,12 @@
 
 /* Your CSS Code here. */
-.a{
+div{
+	color:rgb(255, 255, 255);
 	width:200px;
-	background-color:purple;
+	background-color:rgb(128, 0, 128);
 	text-decoration: underline;
 	padding:10px;
 	border-left:solid green 5px;
-	color:white;
+/* 	border-left-color:rgb(0, 128, 0); */
 	font-size:20px;
 }
